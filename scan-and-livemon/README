@@ -1,0 +1,7 @@
+Script to scan for base stations and start submitt GSM packages on one
+or more the frequencies found using grgsm_livemon_headless to the
+loopback network device
+
+The idea is to gather GSM packages from as many of the GSM base
+stations and phones in the area as possible, by spreading across as
+many operators as possible.
